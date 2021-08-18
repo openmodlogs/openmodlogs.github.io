@@ -1,3 +1,1 @@
-# openmodlogs.github.io
-
-This service is no longer running.
+# This service is no longer running.
